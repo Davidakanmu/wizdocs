@@ -91,5 +91,5 @@ Make your changes to the documentation files inside the project folder.
    ![image](https://github.com/user-attachments/assets/0d360eab-3857-40ae-9c67-b4d87ccf0f41)
 
 ### Link to final documentation
-[Revamped TMDB Docs](https://devliz.mintlify.app/introduction)
+[Revamped TMDB Docs](https://wisdomnwokocha.mintlify.app/)
 
